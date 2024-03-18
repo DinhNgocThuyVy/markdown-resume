@@ -15,8 +15,8 @@ jobs:
           path: output/
       - uses: actions/download-artifact@v3
         with:
-          name: output
-          path: output/
+          name: docs
+          path: docs/
       - name: update file and push to remote
         run: |
           git config --global user.name "github-actions[bot]"
