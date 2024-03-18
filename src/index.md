@@ -32,19 +32,19 @@ I am looking for a postdoc position with the interests in:
 
 University of Grenoble Alpes (UGA, France)
 
-*Biogeochemical modeling in a tropical estuary and eutrophication management*.
+*xxxxxxxxxxxxxxxxxxx*.
 
 #### Master degree in xxxx `09/xxx-08/2018`
 
 Grenoble Institute of Technology (Grenoble INP, France)
 
-*Modeling nutrient dynamics in the Saigon River Estuary, Vietnam*.
+*xxxxxxxxxxxxxxxxxx*.
 
 #### Bachelor degree in Environmental management `09/2012-02/2017`
 
-Ho Chi Minh City University of Technology (HCMUT, Vietnam)
+xxxxxxxxxxxxxxxxxxxxxx (HCMUT, Vietnam)
 
-*Antibiotic pollution in the Saigon River, Vietnam*.
+*xxxxxxxxxxxxxxxxxxxxxxxxxx*.
 
 ## Professional Experience
 
@@ -56,26 +56,26 @@ After completing my doctoral contract, I would apply for severeal postdoctoral p
 
 Institute of Environmental Geosciences (IGE), France. 
 
-*Water quality monitoring (nutrients, carbon, phytoplankton, greenhouse gases) and develop a biogeochemical model (1D reactive transport) for tropical estuaries.*
+*xxxxxxxxxxxxxxxxxx.*
 
 #### Master program (6 months internship) `08/xxxx-07/xxxx`
 
-Institute of Environmental Geosciences (IGE), France.
+xxxxxxxxxxxxxxxxxxxxxxx.
 
-*Implementation of a nutrient dynamics model for the Saigon River using C language.*
+*xxxxxxxxxxxxxxxxxxxxx.*
 
 
 #### Lab technician (18 months) `12/zzzz-06/xxxx`
 
-Asian Center for Water Research (CARE-RESCIF), Vietnam.
+xxxxxxxxxxxxxxxxxxx, Vietnam.
 
-*Water sampling and operation of ICP-OES analyzer, TOC-V.*
+*xxxxxxxxxxxxxxxxxxx.*
 
 #### Bachelor internship (6 months) `06/xxxx-12/xxxx`
 
-Project: development of "passive sampling" for the analysis of antibiotics in river.
+Project: xxxxxxxxxxxxxxxxxxxxxxx.
 
-*Sampling and pretreatment of samples for antibiotics measurement.*
+*xxxxxxxxxxxxxxxxxxxxxx.*
 
 ## Competences
 

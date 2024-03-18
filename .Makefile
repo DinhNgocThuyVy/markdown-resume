@@ -10,7 +10,7 @@ SHELL := /bin/bash
 export DATETIME=$(shell date +"%Y%m%d-%H%M-%S")
 
 SRCDIR=src
-OBJDIR=output
+OBJDIR=docs
 SOURCES  := $(wildcard $(SRCDIR)/*.md)
 SORUCES_IN_OUTPUT_DIR := $(patsubst $(SRCDIR)/%,$(OBJDIR)/%,$(SOURCES))
 PDFS := $(SORUCES_IN_OUTPUT_DIR:.md=.pdf)

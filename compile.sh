@@ -39,4 +39,4 @@ styles=$(ls -p styles/${STYLE}/*.css | sed "s/^/-c /" | tr "\n" " ")
 
 # we actually want the spaces to split out the args
 # shellcheck disable=SC2086
-pandoc -s --self-contained -t html $styles "$sourcefile" -o "output/$source_base.$format" --pdf-engine-opt=--enable-local-file-access
+pandoc -s --self-contained -t html $styles "$sourcefile" -o "docs/$source_base.$format" --pdf-engine-opt=--enable-local-file-access

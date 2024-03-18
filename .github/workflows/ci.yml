@@ -11,8 +11,8 @@ jobs:
       - run: make
       - uses: actions/upload-artifact@v3
         with:
-          name: output
-          path: output/
+          name: docs
+          path: docs/
       - uses: actions/download-artifact@v3
         with:
           name: docs

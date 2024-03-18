@@ -12,7 +12,7 @@ ENV XDG_RUNTIME_DIR=/tmp/runtime-root
 WORKDIR ${WORKDIR}
 COPY . ./
 
-VOLUME ${WORKDIR}/output
+VOLUME ${WORKDIR}/docs
 VOLUME ${WORKDIR}/src
 
 ENTRYPOINT make watch
