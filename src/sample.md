@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae - Nguyễn Trường An
+title: Curriculum Vitae - Đinh Ngọc Thúy Vy
 
 margin-left: 1.5cm
 margin-right: 1.8cm
@@ -14,7 +14,7 @@ style: default
 
 ## Contact
 
-Đinh Ngọc Thúy Thuy, PhD\
+Đinh Ngọc Thúy Vy, PhD\
 <dinhvy2101@gmail.com>\
 [Phone: +33 xxx xx xx xx](tel:077xxxxxx)
 
