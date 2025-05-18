@@ -1,27 +1,79 @@
-on: push
+on:
+  push:
+    branches: [main, master]
+  release:
+    types: [created]
+  workflow_dispatch:
+    inputs:
+      release_date:
+        description: 'Custom release date (defaults to current date)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-  test_and_compile:
+  build_and_test:
     runs-on: ubuntu-latest
-    name: test and compile
+    name: Build and Test
     steps:
-      - uses: actions/checkout@v3
-      - run: sudo apt install -y pandoc lmodern wkhtmltopdf
-      - run: make test
-      - run: make
-      - uses: actions/upload-artifact@v3
-        with:
-          name: docs
-          path: docs/
-      - uses: actions/download-artifact@v3
-        with:
-          name: docs
-          path: docs/
-      - name: update file and push to remote
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - uses: actions/checkout@v4
 
-          git add -A
-          git commit -m "Update CV"
-          git push
+      - name: Set execute permissions
+        run: chmod +x ./compile.sh ./compile_all.sh ./watch.sh
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc wkhtmltopdf shellcheck
+
+      - name: Run shellcheck
+        run: |
+          shellcheck ./compile.sh
+          shellcheck ./compile_all.sh
+          shellcheck ./watch.sh
+
+      - name: Build CV files
+        run: ./compile_all.sh
+
+      - name: Verify output files exist
+        run: |
+          test -f ./docs/DinhNgocThuyVy_CV.pdf || { echo "DinhNgocThuyVy_CV.pdf not found"; exit 1; }
+          test -f ./docs/DinhNgocThuyVy_CV.html || { echo "DinhNgocThuyVy_CV.html not found"; exit 1; }
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cv-outputs
+          path: docs/
+
+      - name: Get current date and timestamp
+        id: datetime
+        run: |
+          echo "DATE=$(date +'%d-%B-%Y')" >> $GITHUB_OUTPUT
+          echo "TIMESTAMP=$(date +'%Y%m%d%H%M%S')" >> $GITHUB_OUTPUT
+
+      - name: Create Release and Upload Assets
+        if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: release-${{ steps.datetime.outputs.DATE }}-${{ steps.datetime.outputs.TIMESTAMP }}
+          name: CV Release ${{ steps.datetime.outputs.DATE }}
+          draft: false
+          prerelease: false
+          files: |
+            docs/DinhNgocThuyVy_CV.pdf
+            docs/DinhNgocThuyVy_CV.html
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages
+          force_orphan: true

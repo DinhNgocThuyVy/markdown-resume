@@ -16,7 +16,8 @@ style: default
 
 Thuy Vy Dinh Ngoc, PhD\
 <dinhvy2101@gmail.com>\
-[Phone: +337 73 27 77 92](tel:0773277792)
+[Phone: +337 73 27 77 92](tel:0773277792)\
+<https://github.com/DinhNgocThuyVy/DinhNgocThuyVy>
 
 ## Education
 
@@ -141,12 +142,20 @@ Mapping and spatial analysis with QGIS and ArcGIS
 
 ## Co-supervising and teaching
 
-1. Internal training for the CHIANTI group on the use of the PMF method (201- 10h
-
+### Co-supervising
 1. Vincent Soubeyrou. Student in Master 2 in Atmospheric Pollution, Climate Change, Health Impacts, Renewable Energies, Université Cote d'Azur. Working on long-term geochemical (2012-2022) evolution at the OPE, a rural site in France (internship from February to July 2023).
 
-1. Appere Dennis. Student in Master 2 in , Université Grenoble Alpes. Working on long-term geochemical (2012-2023) evolution at the OPE, a rural site in France (internship from February to July 2024).
+1. Appere Dennis. Student in Master 2 in Earth and environmental sciences, Université Grenoble Alpes. Working on long-term geochemical (2012-2023) evolution at the OPE, a rural site in France (internship from February to July 2024).
 
+1. Ludovic Farnier. Student in Master 2 in Earth and environmental sciences, Université Grenoble Alpes. Working on (internship from February to July 2025).
+
+### Teaching
+
+1. Internal training for the CHIANTI group on the use of the PMF method - 10h
+
+1. Master 1, Earth and environmental sciences, Université Grenoble Alpes. Variability of climate and environment, 2022-2024 (12h)
+
+1. Master 1, Earth and environmental sciences, Université Grenoble Alpes. Modelling of processes in the atmosphere, 2022-2024 (30h)
 
 
 
