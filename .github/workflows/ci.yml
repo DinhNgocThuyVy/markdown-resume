@@ -41,8 +41,8 @@ jobs:
 
       - name: Verify output files exist
         run: |
-          test -f ./docs/DinhNgocThuyVy_CV.pdf || { echo "DinhNgocThuyVy_CV.pdf not found"; exit 1; }
-          test -f ./docs/DinhNgocThuyVy_CV.html || { echo "DinhNgocThuyVy_CV.html not found"; exit 1; }
+          test -f ./docs/index.pdf || { echo "index.pdf not found"; exit 1; }
+          test -f ./docs/index.html || { echo "index.html not found"; exit 1; }
 
       - uses: actions/upload-artifact@v4
         with:
@@ -64,8 +64,8 @@ jobs:
           draft: false
           prerelease: false
           files: |
-            docs/DinhNgocThuyVy_CV.pdf
-            docs/DinhNgocThuyVy_CV.html
+            docs/index.pdf
+            docs/index.html
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
