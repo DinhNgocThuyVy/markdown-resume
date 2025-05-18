@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae - Nguyễn Trường An
+title: Curriculum Vitae - Dinh Ngoc Thuy Vy
 
 margin-left: 1.5cm
 margin-right: 1.8cm
