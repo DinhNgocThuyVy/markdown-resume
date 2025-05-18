@@ -26,7 +26,7 @@ University of Grenoble Alpes (UGA, France)
 
 *Developing the methodology for identification PM sources and evaluate their health impact*
 
-#### Master degree in  Earth and environmental sciences `09/2019-09/2022`
+#### Master degree in Earth and environmental sciences `09/2019-09/2022`
 
 Grenoble Alpes University (Grenoble, France)
 
@@ -123,7 +123,6 @@ Mapping and spatial analysis with QGIS and ArcGIS
 
 1. Vy Ngoc Thuy Dinh, Favez O, Uzu G, Weber S, Dominutti PA, Jacob V, Houdier S, Darfeuil S, divers INERIS, divers Atmo Aura, and Jaffrezo JL (2023) Source apportionment and tendencies of PM components in Grenoble (France) over a 11-year period. Submitted to Atmos. Chem. Phys. Disc. on xx/yy/2023.
 
-1. 
 ### Conferences
 
 1. Ludovic Farnier, Vy Ngoc Thuy Dinh*, Pamela Dominutti, Gaëlle Uzu, Mélodie Chatain, Emmanuel Jantzem, Ghozzi Fayes, NGO Sylvie, GHOZZI Fayes, Jean-Luc Jaffrezo, (2025). The impact of the vehicular emission in different environment: A comparison of PM10 and PM2.5 source apportionment in urban background, traffic and train station sites. European aerosol conference. September 2025. Lecce, Italy. Oral
@@ -134,11 +133,21 @@ Mapping and spatial analysis with QGIS and ArcGIS
 
 ### Scientific report
 
+1. Zhang, S., Samaké, A., Alleman, L., Favez, O., Dinh Ngoc, T. V., and Jaffrezo, J.-L.: Identification des sources des particules sur la zone littorale des Hauts de France et de la Normandie, Atmo Hauts-de-France ; Atmo Normandie ; LCSQA ; IGE – Institut des Géosciences de l’Environnement (2024).
+
+1.Kaspar Rudolf Daellenbach, Andrés Alastuey, Nikos Mihalopoulos, Gaëlle Uzu, Xavier Querol, Barend L. van Drooge, Marjan Savadkoohi, Meritxell Garcia-Marlès, Olivier Favez, Jean-Luc Jaffrezo & Vy Ngoc Thuy Dinh.Summary OP of PM, PM components and PM source contributions.Deliverable D30 (D4.9) RI urban project (2025).
+
+1. Gaëlle Uzu, Kaspar Daellenbach, Vy Dinh Ngoc Thuy, Andre Prevot, Jean-Luc Jaffrezo. Guidance documents on measurements and modelling of novel air quality pollutants: Source apportionment of OP. Service tools RI urban project (2024).
+
+## Co-supervising and teaching
+
+1. Internal training for the CHIANTI group on the use of the PMF method (201- 10h
+
+1. Vincent Soubeyrou. Student in Master 2 in Atmospheric Pollution, Climate Change, Health Impacts, Renewable Energies, Université Cote d'Azur. Working on long-term geochemical (2012-2022) evolution at the OPE, a rural site in France (internship from February to July 2023).
+
+1. Appere Dennis. Student in Master 2 in , Université Grenoble Alpes. Working on long-term geochemical (2012-2023) evolution at the OPE, a rural site in France (internship from February to July 2024).
 
 
-
-## Co-supervisor and teaching
-1. 
 
 
 
