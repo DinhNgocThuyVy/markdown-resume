@@ -92,10 +92,11 @@ Mapping and spatial analysis with QGIS and ArcGIS
 **French** (proficient, level B2)
 
 ## Courses
-1. OUTILS STATISTIQUES POUR DATA SCIENCE-22 - 33h
-1. PROJECT MANAGEMENT AND COLLABORATIVE DEVELOPMENTS - Git, Gitlab and continuous integration - 6h
-1. INTRODUCTION TO DATA ASSIMILATION - 25h
-1. METALS ONLINE MEASUREMENT INSTRUMENT TRAINING - 6h
+1. Outils statistiques pour data science -22 - 33h
+1. Project management and collaborative developments - Git, Gitlab and continuous integration - 6h
+1. Introduction to data assimilation - 25h
+1. Metals online measurement instrument training - 6h
+1. Atmospheric ResearchInfrastructures - 4h
 
 ## Publications
 
@@ -117,7 +118,7 @@ Mapping and spatial analysis with QGIS and ArcGIS
 
 1. Liu, Y., Jin, B., Zhang, X., Liu, X., Wang, T., Dinh, V. N. T., Jaffrezo, J.-L., Uzu, G., Dominutti, P., Darfeuil, S., and others: Source apportionment of PM10 particles in the urban atmosphere using PMF and LPO-XGBoost, Environ. Res., 121659, 2025.
 
-### Submitted articles:
+### Submitted articles
 1. Liu, X., Zhangb, X., Wang, T., Jin, B., Dinh, V., Jaffrezo, J.-L., Uzu, G., Dominutti, P., Darfeuil, S., Favez, O., Conil, S., Marchand, N., Castillo, S., Rosa, J. D. de la, Stuart, G., Eleftheriadis, K., Diapouli, E., Manousakas, M., Nava, S., Alves, C., Monge, M., Reche, C., Harrison, R., Hopke, P., Alastuey, A., and Querol, X.: Source apportionment of PM10 based on offline chemical speciation data in urban Europe, npj Climate and Atmospheric Science, https://doi.org/Under review, 2025. 
 
 1. Vy Ngoc Thuy Dinh, Gaëlle Uzu, Pamela Dominutti, Stéphane Sauvage, Rhabira Elazzouzi, Sophie Darfeuil, Céline Voiron, Abdoulaye Samaké, Shouwen Zhang, Stéphane Socquet, Olivier Favez, and Jean-Luc Jaffrezo: Toolbox for accurate estimation and validation of PMF solutions in PM source apportionment, Atmospheric Measurement Techniques, Submitted 25 Apr 2025
