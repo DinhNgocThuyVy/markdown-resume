@@ -73,7 +73,7 @@ Asian Center for Water Research (CARE-RESCIF), Vietnam.
 
 ### Numerical
 
-Extensive knowledge in Python, R languages 
+Extensive knowledge in Python, R languages
 
 Positive Matric Factorization model for Air quality modelling
 
@@ -101,17 +101,17 @@ Mapping and spatial analysis with QGIS and ArcGIS
 
 ### Published articles 
 
-1. Dinh, V., Thuy, N., Jaffrezo, J., Hough, I., Dominutti, P. A., Moreton, S., Gilles, G., Francony, F., Patron-anquez, A., Uzu, G., Aura, A., and Sud, A.: Unveiling the optimal regression model apportionment of the oxidative potential of PM for source, 1–29, 2024., https://doi.org/10.5194/acp-24-7261-2024.
-
 1. Borlaza, L., Ngoc Thuy, V. D., Grange, S., Socquet, S., Moussu, E., Mary, G., Favez, O., Hueglin, C., Jaffrezo, J. L., and Uzu, G.: Impact of COVID-19 lockdown on particulate matter oxidative potential at urban background versus traffic sites, Environ. Sci. Atmos., https://doi.org/10.1039/d3ea00013c, 2023.
+
+1. Dominutti, P. A., Borlaza, L., Sauvain, J. J., Ngoc Thuy, V. D., Houdier, S., Suarez, G., Jaffrezo, J. L., Tobin, S., Trébuchon, C., Socquet, S., Moussu, E., Mary, G., and Uzu, G.: Source apportionment of oxidative potential depends on the choice of the assay: insights into 5 protocols comparison and implications for mitigation measures, Environ. Sci. Atmos., https://doi.org/10.1039/d3ea00007a, 2023.
+
+1. Dinh, V., Thuy, N., Jaffrezo, J., Hough, I., Dominutti, P. A., Moreton, S., Gilles, G., Francony, F., Patron-anquez, A., Uzu, G., Aura, A., and Sud, A.: Unveiling the optimal regression model apportionment of the oxidative potential of PM for source, 1–29, 2024., https://doi.org/10.5194/acp-24-7261-2024.
 
 1. Glojek, K., Dinh Ngoc Thuy, V., Weber, S., Uzu, G., Manousakas, M., Elazzouzi, R., Džepina, K., Darfeuil, S., Ginot, P., Jaffrezo, J. L., Žabkar, R., Turšič, J., Podkoritnik, A., and Močnik, G.: Annual variation of source contributions to PM10 and oxidative potential in a mountainous area with traffic, biomass burning, cement-plant and biogenic influences, Environ. Int., 189, 108787, https://doi.org/10.1016/j.envint.2024.108787, 2024.
 
 1. Borlaza-Lacoste, L., Mardoñez, V., Marsal, A., Hough, I., Dinh, N. T. V., Dominutti, P., Jaffrezo, J.-L., Alastuey, A., Besombes, J.-L., Močnik, G., Moreno, I., Velarde, F., Gardon, J., Cornejo, A., Andrade, M., Laj, P., and Uzu, G.: Oxidative potential of particulate matter and its association to respiratory health endpoints in high-altitude cities in Bolivia, Environ. Res., 255, 119179, https://doi.org/10.1016/j.envres.2024.119179, 2024.
 
 1. Dominutti, P. A., Mari, X., Jaffrezo, J. L., Dinh, V. T. N., Chifflet, S., Guigue, C., Guyomarc’h, L., Vu, C. T., Darfeuil, S., Ginot, P., Elazzouzi, R., Mhadhbi, T., Voiron, C., Martinot, P., and Uzu, G.: Disentangling fine particles (PM2.5) composition in Hanoi, Vietnam: Emission sources and oxidative potential, Sci. Total Environ., 923, https://doi.org/10.1016/j.scitotenv.2024.171466, 2024.
-
-1. Dominutti, P. A., Borlaza, L., Sauvain, J. J., Ngoc Thuy, V. D., Houdier, S., Suarez, G., Jaffrezo, J. L., Tobin, S., Trébuchon, C., Socquet, S., Moussu, E., Mary, G., and Uzu, G.: Source apportionment of oxidative potential depends on the choice of the assay: insights into 5 protocols comparison and implications for mitigation measures, Environ. Sci. Atmos., https://doi.org/10.1039/d3ea00007a, 2023.
 
 1. Amato, F., van Drooge, B. L., Jaffrezo, J. L., Favez, O., Colombi, C., Cuccia, E., Reche, C., Ippolito, F., Ridolfo, S., Lara, R., Uzu, G., Ngoc, T. V.D., Dominutti, P., Darfeuil, S., Albinet, A., Srivastava, D., Karanasiou, A., Lanzani, G., Alastuey, A., and Querol, X.: Aerosol source apportionment uncertainty linked to the choice of input chemical components, Environ. Int., 184, 108441, https://doi.org/10.1016/j.envint.2024.108441, 2024.
 
@@ -122,7 +122,7 @@ Mapping and spatial analysis with QGIS and ArcGIS
 
 1. Vy Ngoc Thuy Dinh, Gaëlle Uzu, Pamela Dominutti, Stéphane Sauvage, Rhabira Elazzouzi, Sophie Darfeuil, Céline Voiron, Abdoulaye Samaké, Shouwen Zhang, Stéphane Socquet, Olivier Favez, and Jean-Luc Jaffrezo: Toolbox for accurate estimation and validation of PMF solutions in PM source apportionment, Atmospheric Measurement Techniques, Submitted 25 Apr 2025
 
-1. Vy Ngoc Thuy Dinh, Favez O, Uzu G, Weber S, Dominutti PA, Jacob V, Houdier S, Darfeuil S, divers INERIS, divers Atmo Aura, and Jaffrezo JL (2023) Source apportionment and tendencies of PM components in Grenoble (France) over a 11-year period. Submitted to Atmos. Chem. Phys. Disc. on xx/yy/2023.
+1. Vy Ngoc Thuy Dinh, Favez O, Uzu G, Weber S, Dominutti PA, Jacob V, Houdier S, Darfeuil S, divers INERIS, divers Atmo Aura, and Jaffrezo JL (2023) Source apportionment and tendencies of PM components in Grenoble (France) over a 11-year period. TO be submitted to Atmos. Chem. Phys. Disc.
 
 ### Conferences
 
@@ -134,29 +134,25 @@ Mapping and spatial analysis with QGIS and ArcGIS
 
 ### Scientific report
 
-1. Zhang, S., Samaké, A., Alleman, L., Favez, O., Dinh Ngoc, T. V., and Jaffrezo, J.-L.: Identification des sources des particules sur la zone littorale des Hauts de France et de la Normandie, Atmo Hauts-de-France ; Atmo Normandie ; LCSQA ; IGE – Institut des Géosciences de l’Environnement (2024).
+1. Zhang, S., Samaké, A., Alleman, L., Favez, O., Dinh Ngoc, T. V., and Jaffrezo, J.-L.: Identification des sources des particules sur la zone littorale des Hauts de France et de la Normandie, LCSQA report (2024).
 
 1.Kaspar Rudolf Daellenbach, Andrés Alastuey, Nikos Mihalopoulos, Gaëlle Uzu, Xavier Querol, Barend L. van Drooge, Marjan Savadkoohi, Meritxell Garcia-Marlès, Olivier Favez, Jean-Luc Jaffrezo & Vy Ngoc Thuy Dinh.Summary OP of PM, PM components and PM source contributions.Deliverable D30 (D4.9) RI urban project (2025).
 
 1. Gaëlle Uzu, Kaspar Daellenbach, Vy Dinh Ngoc Thuy, Andre Prevot, Jean-Luc Jaffrezo. Guidance documents on measurements and modelling of novel air quality pollutants: Source apportionment of OP. Service tools RI urban project (2024).
 
-## Co-supervising and teaching
+## Co-supervising
 
-### Co-supervising
 1. Vincent Soubeyrou. Student in Master 2 in Atmospheric Pollution, Climate Change, Health Impacts, Renewable Energies, Université Cote d'Azur. Working on long-term geochemical (2012-2022) evolution at the OPE, a rural site in France (internship from February to July 2023).
 
 1. Appere Dennis. Student in Master 2 in Earth and environmental sciences, Université Grenoble Alpes. Working on long-term geochemical (2012-2023) evolution at the OPE, a rural site in France (internship from February to July 2024).
 
-1. Ludovic Farnier. Student in Master 2 in Earth and environmental sciences, Université Grenoble Alpes. Working on (internship from February to July 2025).
+1. Ludovic Farnier. Student in Master 2 in Earth and environmental sciences, Université Grenoble Alpes. Working on chemical compostions, temporal evolution and heath impact of ambient PM in Reims, France (internship from February to July 2025).
 
-### Teaching
+## Teaching
 
-1. Internal training for the CHIANTI group on the use of the PMF method - 10h
+1. Internal training for the CHIANTI group on the use of the PMF method, 2023-2025 (10h)
 
 1. Master 1, Earth and environmental sciences, Université Grenoble Alpes. Variability of climate and environment, 2022-2024 (12h)
 
 1. Master 1, Earth and environmental sciences, Université Grenoble Alpes. Modelling of processes in the atmosphere, 2022-2024 (30h)
-
-
-
 
