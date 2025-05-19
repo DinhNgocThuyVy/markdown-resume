@@ -130,13 +130,13 @@ Mapping and spatial analysis with QGIS and ArcGIS
 
 1. N.T.V. Dinh, I. Hough, O. Favez, J-L.Jaffrezo, G. Uzu,(2023). Comparison of 7 methods for the source apportionment of Oxidative Potential in atmospheric PM: a multi-campaign study. European aerosol conference. September 2023. Málaga, Spain. Poster
 
-* Presenting author
+ (*Presenting author)
 
 ### Scientific report
 
 1. Zhang, S., Samaké, A., Alleman, L., Favez, O., Dinh Ngoc, T. V., and Jaffrezo, J.-L.: Identification des sources des particules sur la zone littorale des Hauts de France et de la Normandie, LCSQA report (2024).
 
-1.Kaspar Rudolf Daellenbach, Andrés Alastuey, Nikos Mihalopoulos, Gaëlle Uzu, Xavier Querol, Barend L. van Drooge, Marjan Savadkoohi, Meritxell Garcia-Marlès, Olivier Favez, Jean-Luc Jaffrezo & Vy Ngoc Thuy Dinh.Summary OP of PM, PM components and PM source contributions.Deliverable D30 (D4.9) RI urban project (2025).
+1. Kaspar Rudolf Daellenbach, Andrés Alastuey, Nikos Mihalopoulos, Gaëlle Uzu, Xavier Querol, Barend L. van Drooge, Marjan Savadkoohi, Meritxell Garcia-Marlès, Olivier Favez, Jean-Luc Jaffrezo & Vy Ngoc Thuy Dinh.Summary OP of PM, PM components and PM source contributions.Deliverable D30 (D4.9) RI urban project (2025).
 
 1. Gaëlle Uzu, Kaspar Daellenbach, Vy Dinh Ngoc Thuy, Andre Prevot, Jean-Luc Jaffrezo. Guidance documents on measurements and modelling of novel air quality pollutants: Source apportionment of OP. Service tools RI urban project (2024).
 
